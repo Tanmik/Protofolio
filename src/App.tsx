@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-function Portfolio_() {
+function Portfolio() {
   return (
     <div className="container">
       <header className="header">
@@ -56,4 +56,4 @@ function Portfolio_() {
   );
 }
 
-export default Portfolio_;
+export default Portfolio;

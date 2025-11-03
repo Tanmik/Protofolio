@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   background-color: #000;
   color: #fff;
@@ -60,66 +59,3 @@ footer {
   color: #aaa;
   font-size: 0.9rem;
 }
-=======
-body {
-  background-color: #000;
-  color: #fff;
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem;
-}
-
-.header {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin-bottom: 2rem;
-}
-
-.profile {
-  width: 120px;
-  height: 120px;
-  border-radius: 12px;
-  object-fit: cover;
-}
-
-.name {
-  font-size: 2rem;
-  font-weight: bold;
-}
-
-.subtitle {
-  color: #ccc;
-}
-
-.card {
-  background-color: #1e1e1e;
-  padding: 1.5rem;
-  border-radius: 12px;
-  width: 100%;
-  max-width: 600px;
-  margin-bottom: 1.5rem;
-}
-
-a {
-  color: #4fa3ff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-footer {
-  margin-top: 2rem;
-  color: #aaa;
-  font-size: 0.9rem;
-}
->>>>>>> 4267821b395f222b24fd9fa3d4382413809d77a8
